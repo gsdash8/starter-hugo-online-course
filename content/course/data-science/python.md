@@ -17,7 +17,7 @@ Build a foundation in Python.
 
 ## Quiz
 
-{{< spoiler text="What is the difference between lists and tuples?" >}}
+{{< spoiler text="Test 1?" >}}
 Lists
 
 - Lists are mutable - they can be changed
